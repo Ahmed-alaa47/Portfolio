@@ -1,1 +1,5 @@
-
+title: Ahmed Alaa
+#logo: /assets/img/headshot.png (image on github repo)
+#description: text below image
+#show_downloads: true
+theme: jekyll-theme-minimal
