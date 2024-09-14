@@ -11,6 +11,9 @@
   real world problems using cutting-edge technologies.
 
 ### Projects
-  Movie Recommendation System
 
-  Snake Game
+  Movie Recommendation System
+  [Publication](https://github.com/Ahmed-alaa47/Movie-Recommender)
+  
+  Snake Game with Reinforcement Learning
+  [Publication](https://github.com/Ahmed-alaa47/snake-game)
